@@ -32,7 +32,7 @@ Click into Browse Catalog button.
 In the search text box type eap cd and select the JBoss EAP CD (no https). EAP CD is latest EAP 7 version updated more frequently than regular EAP 7.x versions.
 
 Click Next button and fill the fields with the following information:
-
+....
 Add to project: your-project-name
 Name: ks
 Git Repository URL: https://github.com/jboss-developer/jboss-eap-quickstarts.git
